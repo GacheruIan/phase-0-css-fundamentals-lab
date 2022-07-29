@@ -67,10 +67,7 @@ Hint: Try adding the following temporarily to your `style.css` file to test if
 your linked CSS is working:
 
 ```css
-h1 {
-  color: red;
-}
-```
+ 
 
 If you see your `<h1>` change to red, you've linked your style sheet correctly!
 Don't forget to delete it once you have your link working.

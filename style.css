@@ -1,5 +1,49 @@
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+
 }
+h1 {
+  color: black
+}
+
+.head-section
+{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+#links, a{
+   display: inline;
+   margin-right: 20px
+  
+ }
+ img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#details
+{
+ display: flex;
+ background-color: red;
+ justify-content: space-around;
+}
+#featured-property > p{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 38%;
+}
+#figcaption
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%; 
+}
+
+
